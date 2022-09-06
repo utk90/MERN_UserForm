@@ -1,0 +1,13 @@
+.userCard {
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.226);
+    font: 600 12px "Roboto";
+    color: rgba(0, 0, 0, 0.836);
+    text-decoration: none;
+}
+
+.userCard:hover{
+    opacity: 0.4;
+}

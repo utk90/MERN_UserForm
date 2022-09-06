@@ -1,0 +1,10 @@
+.heading{
+    font: 600 40px "Roboto";
+}
+
+.userList {
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+    margin-left: 10px;
+}

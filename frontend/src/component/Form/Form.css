@@ -1,0 +1,10 @@
+.createDetailsBox {
+    margin-top: 30vh;
+    display: block;
+}
+
+.createDetailsContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
